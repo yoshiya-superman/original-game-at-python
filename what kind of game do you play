@@ -1,0 +1,27 @@
+print("""This game decides which game you will play today""")
+print("""From now on it is completely random""")
+print("""Please enter your favorite number""")
+
+num = int(input(">"))
+num2 = num % 9
+
+if num2 == 0:
+    print("APEX")
+elif num2 == 1:
+    print("sea of thives")
+elif num2 == 3:
+    print("Among us")
+elif num2 == 4:
+    print("Ultimet chicken horse")
+elif num2 == 5:
+    print("locket reage")
+elif num2 == 6:
+    print("Valolant")
+elif num2 == 7:
+    print("monster strike")
+elif num2 == 8:
+    print("Clash royale")
+elif num2 == 9:
+    print("Werewolf")
+
+    
