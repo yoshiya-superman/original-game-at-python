@@ -18,10 +18,9 @@ elif num2 == 5:
 elif num2 == 6:
     print("Valolant")
 elif num2 == 7:
-    print("monster strike")
+    print("Werewolf")
 elif num2 == 8:
     print("Clash royale")
-elif num2 == 9:
-    print("Werewolf")
+
 
     
